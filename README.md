@@ -22,7 +22,7 @@ A fullstack developer from India 🇮🇳
 <img align="left" alt="graphql" src="https://img.shields.io/badge/graphql%20-%23161F26.svg?&style=for-the-badge&logo=graphql&logoColor=%23E434AA" />
 <img align="left" alt="mysql" src="https://img.shields.io/badge/mysql%20-%234479a0.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
 <img align="left" alt="html" src="https://img.shields.io/badge/html%20-%23202429.svg?&style=for-the-badge&logo=html5&logoColor=%23E34F26" />
-<img align="left" alt="css" src="https://img.shields.io/badge/html%20-%23202429.svg?&style=for-the-badge&logo=css3&logoColor=%231572B6" />
+<img align="left" alt="css" src="https://img.shields.io/badge/css%20-%23202429.svg?&style=for-the-badge&logo=css3&logoColor=%231572B6" />
 <!--
 **asingh04/asingh04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
