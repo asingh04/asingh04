@@ -26,7 +26,7 @@ A fullstack developer from India 🇮🇳
 
 <br>
 
-## My Blog Posts
+## 📚 My Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Yarn Plug ‘n’ Play: Time to say goodbye to node_modules?](https://abhishek-singh4.medium.com/yarn-plug-n-play-time-to-say-goodbye-to-node-modules-9d40546ed7d6?source=rss-78bda0e81cd5------2)
 <!-- BLOG-POST-LIST:END -->
