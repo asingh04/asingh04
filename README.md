@@ -28,6 +28,7 @@ A fullstack developer from India 🇮🇳
 
 ## 📚 My Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Order of Execution in a SQL Query.](https://dev.to/asingh04/order-of-execution-in-a-sql-query-33if)
 - [useReducer Hook+ Context API = A Powerful React Tool](https://dev.to/asingh04/usereducer-hook-context-api-a-powerful-react-tool-32ef)
 <!-- BLOG-POST-LIST:END -->
 
