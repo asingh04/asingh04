@@ -2,7 +2,7 @@
 ## Abhishek Singh (asingh04)
 A fullstack developer from India 🇮🇳
 
-<img align="left" src="https://img.shields.io/static/v1?style=for-the-badge&label=experience&message=4%20years&labelColor=%23282D33&color=%2343853D" alt="experience" />
+<img align="left" src="https://img.shields.io/static/v1?style=for-the-badge&label=experience&message=5%2B%20years&labelColor=%23282D33&color=%2343853D" alt="experience" />
 
 <br>
 
